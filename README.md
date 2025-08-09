@@ -17,6 +17,7 @@ In the Bids section, users can submit new bids on available properties, view bid
 
 ### Ethical Dilemma Analysis
 - **Theme**: Integrity in Code and Character
+  
 During a group software engineering project, one of my teammates submitted code that they had copied directly from an online repository without any attribution. The code was part of a core functionality we were assigned to build ourselves, and it immediately raised red flags for me during a code review. At first, I wasn't sure how to handle the situation. I knew reporting the issue might damage our team’s dynamic and possibly get my teammate in trouble, but ignoring it would make me complicit in academic dishonesty and go against my personal values.
 I decided to speak to the teammate privately and asked about the origin of the code. They admitted to copying it, saying they were overwhelmed and didn’t want to fall behind. I empathized with their stress but explained the seriousness of the situation. After giving it some thought, I decided to report the incident to our instructor, but I also offered to help the teammate rewrite the code from scratch so we could submit original work.
 
