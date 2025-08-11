@@ -3,6 +3,15 @@
 ### Education
 Bachelor of Software Engineering
 
+### Introduction
+As I progress through my academic and professional journey, I have come to realize that true growth involves not just developing technical proficiency, but also cultivating strong ethical foundations and spiritual maturity. Working in team environments—especially when faced with challenges—has been a significant part of my development. Below, I present experiences that reflect both my professional capabilities and my commitment to personal and spiritual integrity.
+
+### Collaborative Group Work in Multidisciplinary Classes
+**Project Description:**
+In two different classes, I worked on group-based projects that required coordination, research, and timely execution. These projects involved software documentation, coding tasks, and presentation preparation. While the expectations were clear, not all team members met them equally.
+**Professional Challenge:**
+A recurring issue was unequal contribution—particularly when some members failed to manage their time effectively or deliver quality work. In several instances, I and a few others had to take on responsibilities assigned to someone else in order to meet deadlines and uphold academic standards.
+
 ### Programing Languages
 - Java
 - Python
